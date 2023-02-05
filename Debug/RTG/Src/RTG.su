@@ -1,0 +1,8 @@
+../RTG/Src/RTG.c:11:6:rtg_main	8	static
+../RTG/Src/RTG.c:19:6:send_data	24	static
+../RTG/Src/RTG.c:34:6:receive_data	24	static
+../RTG/Src/RTG.c:57:6:update_data	8	static
+../RTG/Src/RTG.c:62:6:HAL_UART_RxCpltCallback	16	static
+../RTG/Src/RTG.c:71:6:HAL_UART_TxCpltCallback	16	static
+../RTG/Src/RTG.c:77:10:RNG_GetRandomNumber	16	static
+../RTG/Src/RTG.c:85:6:print_struct	16	static
